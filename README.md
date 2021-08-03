@@ -1,6 +1,6 @@
 ### <b>Hello C◕ders, Deepak Here</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![if(you sad()==true) {sad stop(); beAwesome();} (1)](https://user-images.githubusercontent.com/78081310/127988661-03609e24-4344-4ec1-946e-0056161b6d2e.png)
+<img width="100%" height="70%" src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
 
 This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion. You can find me on [![Twitter][1.2]][1], or on ![LinkedIn][3.2].
 
