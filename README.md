@@ -1,13 +1,13 @@
-### <b>Hello C◕ders, Deepak Here</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <b>Hello C◕ders </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width="100%" height="70%" src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="60%" height="40%" src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
 
-This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion. You can find me on [![Twitter][1.2]][1], or on ![LinkedIn][3.2].
+This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion. You can find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
@@ -16,11 +16,12 @@ This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack de
 
 <b>Talking about My Personal Stuffs:</b>
 
-- 🔭 I’m currently working on as a Student project
-- 🌱 I’m currently learning IoT
-- 💬 Ask me about Coding and tech related Problems
+- 🔭 I’m currently working on collage project.
+- 🌱 I’m currently learning IoT.
+- 💬 Ask me about Coding and tech related query.
 - 📫 How to reach me: <a href="https://www.instagram.com/deep_gupta14/">The◕Deep</a>
-- ⚡ Fun fact: Without music I can't spend my sec 
+- ⚡ Fun fact: I'm not anti-social ⃠
+ I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
 
 
 ![](https://img.shields.io/badge/👨‍💻-◕-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -28,7 +29,7 @@ This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack de
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://user-images.githubusercontent.com/78081310/128130324-6f1fe1a1-1c2a-4130-ab52-4faa547146e9.png?raw=true">
 </p>
  
 ### Boy Scout Rule
@@ -43,7 +44,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### My Digital Life 👨‍💻
 
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ |
+I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️|
 
 I write regular blog posts, most of which you will find on my personal website [codingroar.com](https://codingroar.blogspot.com)
 
@@ -73,7 +74,7 @@ On a mission to the furthest frontiers of tech and talent.
 ![merko]
 
 
-[merko]: https://github-readme-stats.vercel.app/api?username=DeepakHere&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[merko]: https://github-readme-stats.vercel.app/api?username=Deepakhere&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
 
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
